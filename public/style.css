@@ -1,0 +1,10 @@
+body {
+	background-color: cornsilk;
+	padding: 1rem;	
+}
+
+li {
+	line-height: 2;
+	font-size: 20px;
+	list-style-type: none;
+}
